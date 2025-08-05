@@ -7,7 +7,7 @@ const Team = () => {
       name: 'Deepansu',
       role: 'Founder',
       image: 'https://protoinfrastack.ivondy.com/media/mD04kvKDT6cPxePlQgackjPis435Vay1N9NB',
-      bio: 'Visionary leader with 5+ years in full-stack development. Specializes in React, Node.js, and AI integration. Founded DNA Forge Hub to bridge the gap between academia and industry.',
+      bio: 'Visionary leader with 3+ years in full-stack development. Specializes in React, Node.js, and AI integration. Founded DNA Tech Community to bridge the gap between academia and industry.',
       github: 'https://github.com/DeepanshuS1',
       linkedin: 'https://www.linkedin.com/in/deepansu-214a7b269',
       email: 'Deepanshu1484s@gmail.com',
