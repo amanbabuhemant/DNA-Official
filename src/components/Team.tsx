@@ -7,7 +7,7 @@ const Team = () => {
       name: 'Deepansu',
       role: 'Founder',
       image: 'https://protoinfrastack.ivondy.com/media/mD04kvKDT6cPxePlQgackjPis435Vay1N9NB',
-      bio: 'Visionary leader with 3+ years in full-stack development. Specializes in React, Node.js, and AI integration. Founded DNA Tech Community to bridge the gap between academia and industry.',
+      bio: 'Visionary leader with 5+ years in full-stack development. Specializes in React, Node.js, and AI integration. Founded DNA Forge Hub to bridge the gap between academia and industry.',
       github: 'https://github.com/DeepanshuS1',
       linkedin: 'https://www.linkedin.com/in/deepansu-214a7b269',
       email: 'Deepanshu1484s@gmail.com',
@@ -38,14 +38,14 @@ const Team = () => {
     },
     {
       name: 'Rajan Jha',
-      role: 'Project Manager',
+      role: 'Mobile Development Specialist',
       image: 'https://protoinfrastack.ivondy.com/media/rbrduTcOIEatoaXF26WUFdTeSpr8CascZV9v',
-      bio: 'Experienced Project Manager specializing in strategic planning, team leadership, and successful project delivery',
+      bio: 'Cross-platform mobile expert specializing in React Native and Flutter. Creates seamless mobile experiences with focus on performance and user engagement.',
       github: 'https://github.com/rajanjha',
       linkedin: 'https://linkedin.com/in/rajanjha',
-      email: 'rajan.jha114430@gmail.com',
-      skills: ['System Architecture', 'Project Planning', 'Risk Management', 'Leadership','Workflow Automation'],
-      achievements: ['mentor@gssoc', 'backend developer', 'participant 10+ hackathons',]
+      email: 'rajan@dnaforgehub.dev',
+      skills: ['React Native', 'Flutter', 'iOS', 'Android'],
+      achievements: ['10+ apps in production', '1M+ downloads', 'Google Play featured developer']
     },
   ];
 
